@@ -9,7 +9,12 @@ The purpose of this repository is to contain examples and snippets regarding fun
 - [Slides](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23)
 
 
-## Further materials
+
+### Samples
+## Functional Programming Principles
+# Immutability - [immutability_sample.dart](fp_principles/immutability_sample.dart)
+
+### Further materials
 Here are a few resources to get you started your functional journey:
 
 - https://fsharpforfunandprofit.com/ by Scott Wlaschin
