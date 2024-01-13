@@ -1,5 +1,12 @@
 # The Joy of Functional Programming in Dart
-
+<p align="center">
+  <a href="https://github.com/gerfalcon">
+    <img alt="GitHub: gerfalcon" src="https://img.shields.io/github/followers/gerfalcon?label=Follow&style=social" target="_blank" />
+  </a>
+  <a href="https://twitter.com/SandroMaglione">
+    <img alt="Twitter: gerfalcon" src="https://img.shields.io/twitter/follow/GerfalconVogel?style=social" target="_blank" />
+  </a>
+</p>
 
 The purpose of this repository is to contain examples and snippets regarding functional programming in Dart.
 
