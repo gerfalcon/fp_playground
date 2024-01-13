@@ -1,5 +1,5 @@
 # The Joy of Functional Programming in Dart
-<p align="center">
+<p>
   <a href="https://github.com/gerfalcon">
     <img alt="GitHub: gerfalcon" src="https://img.shields.io/github/followers/gerfalcon?label=Follow&style=social" target="_blank" />
   </a>
